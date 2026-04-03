@@ -1,6 +1,6 @@
 # 👨‍💻 Abhay Chaudhary
 
-**Software Engineering Student** | **IIT Kharagpur** | **B.Tech 2nd Year**
+**IIT Kharagpur** | **B.Tech 2nd Year**
 
 > Building scalable systems and solving algorithmic problems. Focused on systems design, full-stack development, and low-latency architecture.
 
