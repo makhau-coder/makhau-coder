@@ -1,78 +1,128 @@
-# 👨‍💻 Abhay Chaudhary
+👨‍💻 Abhay Chaudhary     
 
-**IIT Kharagpur** | **B.Tech 2nd Year**
+IIT Kharagpur | B.Tech 2nd Year
 
-> Building scalable systems and solving algorithmic problems. Focused on systems design, full-stack development, and low-latency architecture.
-
----
-
-## 🛠️ Technical Stack
-
-### Languages & Core
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
-
-### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-
-### AI/ML & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=semantic&logoColor=white)
-
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🧮 **Algorithmic Problem Solving** | Competitive DSA in C++; pattern recognition and optimization |
-| 🌐 **Full-Stack Web Development** | Production apps with React, FastAPI, PostgreSQL, WebSockets |
-| 🏗️ **System Design & Architecture** | Low-latency systems, concurrency, event-driven patterns |
-| 🤖 **AI & Data Engineering** | LLM integration, RAG pipelines, Text-to-SQL, data analytics |
-
----
-
-## 📊 GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=makhau-coder&show_icons=true&hide_title=false&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true)](https://github.com/makhau-coder)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makhau-coder&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&langs_count=10)](https://github.com/makhau-coder)
+Building scalable systems and solving algorithmic problems. Focused on systems design and full-stack development.
 
 
----
+🚀 Featured Projects
 
-## 💼 Connect With Me
+<table width="100%" cellpadding="20" cellspacing="0" border="0">
+<tr>
+<td width="50%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 10px;">📈 NEXTBULL</h3>
+<i style="display: block; margin-bottom: 12px; color: #666;">Exchange Simulator & Algo Trading</i>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaybst159@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-chaudhary-b1a85231b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhaychaudhary.19/)
+<p>Concurrent Limit Order Book matching engine handling <b>100+ orders/sec</b> with <b>&lt;1ms latency</b>. Features real-time WebSocket streaming and GBM-based synthetic market simulation.</p>
 
----
+<div style="display: flex; gap: 10px; margin-top: 12px;">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/go.svg" alt="Go" width="25" height="25" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/redis.svg" alt="Redis" width="25" height="25" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" height="25" />
+</div>
+</td>
+<td width="50%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 10px;">🤖 Frammer Analytics</h3>
+<i style="display: block; margin-bottom: 12px; color: #666;">AI Content Dashboard</i>
 
-<p align="center">
-  <b>Always learning, always building. 🔧 Improving problem-solving skills one commit at a time.</b>
+<p>Context-aware AI dashboard over <b>100K+ rows</b>. Engineered a 5-stage Text-to-SQL pipeline and 3-tier LLM routing, cutting latency by <b>3x</b> and token usage by <b>40%</b>.</p>
+
+<div style="display: flex; gap: 10px; margin-top: 12px;">
+<img src="https://img.shields.io/badge/LangGraph-412991?style=flat&logo=openai&logoColor=white" alt="LangGraph" height="25" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" alt="DuckDB" height="25" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/react.svg" alt="React" width="25" height="25" />
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 10px;">👔 Deloitte</h3>
+<i style="display: block; margin-bottom: 12px; color: #666;">Employee Engagement Analyzer</i>
+
+<p>Controlled LLM HR system using <b>SHAP-based</b> feature prioritization. Designed multi-stage constraint-driven orchestration for zero-hallucination reports.</p>
+
+<div style="display: flex; gap: 10px; margin-top: 12px;">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" alt="Python" width="25" height="25" />
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" alt="LLMs" height="25" />
+</div>
+</td>
+<td width="50%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 10px;">🌦️ Advanced Weather</h3>
+<i style="display: block; margin-bottom: 12px; color: #666;">Dynamic Web App</i>
+
+<p>Real-time interactive dashboard featuring trigonometric sun trajectory animations, dynamic day-night theming, and reverse-engineered NASA moon phases.</p>
+
+<div style="display: flex; gap: 10px; margin-top: 12px;">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="HTML5" width="25" height="25" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" alt="CSS3" width="25" height="25" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="JS" width="25" height="25" />
+</div>
+</td>
+</tr>
+</table>
+
+🛠️ Technical Stack
+
+<table width="100%" cellpadding="20" cellspacing="0" border="0" style="margin-bottom: 30px; padding-right: 100px">
+<tr>
+<td width="33%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 15px;">Languages & Core</h3>
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" alt="C++" width="35" height="35" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" alt="Python" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" width="35" height="35" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/go.svg" alt="Go" height="35" />
+</div>
+</td>
+<td width="33%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 15px;">Backend & Systems</h3>
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="35" />
+<img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="NodeJS" width="35" height="35" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" height="35" />
+</div>
+</td>
+<td width="33%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 15px;">Frontend & UI</h3>
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/react.svg" width="35" height="35" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="HTML5" width="35" height="35" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" alt="CSS3" width="35" height="35" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" alt="Tailwind CSS" height="35" />
+</div>
+</td>
+</tr>
+<tr>
+<td width="33%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 15px;">Databases & Storage</h3>
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="PostgreSQL" width="35" height="35" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivXCkaET9d6hHwTXDxxR8Lw5Vql5cUqrkAg&s" alt="MongoDB" width="35" height="35" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/redis.svg" alt="Redis" width="35" height="35" />
+<img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fugnvw0cehtgjxvteowok.png" alt="DuckDB" height="35" />
+</div>
+</td>
+<td width="33%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 15px;">AI/ML & Data Science</h3>
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<img src="https://miro.medium.com/1*AUDee8Byf_3CCDx_zCM1pA.jpeg" alt="NumPy" height="35" />
+<img src="https://images.decodo.com/Python_Pandas_1_cc44acf7dc/Python_Pandas_1_cc44acf7dc.png" alt="Pandas" height="35" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" height="35" />
+<img src="https://img.freepik.com/premium-vector/rag-logo-rag-letter-rag-letter-logo-design-initials-rag-logo-linked-with-circle-uppercase-monogram-logo-rag-typography-technology-business-real-estate-brand_229120-82878.jpg" alt="RAG" height="35" />
+</div>
+</td>
+<td width="33%" style="padding: 20px; vertical-align: top;">
+<h3 style="margin-top: 0; margin-bottom: 15px;">Tools & DevOps</h3>
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" alt="Docker" width="40" height="40" />
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png" alt="Git" width="45" height="45" />
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/non_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" alt="GitHub" width="45" height="45" />
+</div>
+</td>
+</tr>
+</table>
+
+
+<p align="center" style="margin-top: 40px;">
+<b>Always learning, always building. 🔧 Improving problem-solving skills one commit at a time.</b>
 </p>
