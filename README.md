@@ -1,8 +1,13 @@
-👨‍💻 Abhay Chaudhary     
+<h2>👨‍💻 Abhay Chaudhary &nbsp;
+  <a href="mailto:abhaybst159@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="22" /></a> 
+  <a href="https://www.linkedin.com/in/abhay-chaudhary-b1a85231b/"><img src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" height="27" /></a>
+  <a href="https://www.instagram.com/abhaychaudhary.19/"><img src="https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s96-rw" height="27" /></a>
+</h2>
 
-IIT Kharagpur | B.Tech 2nd Year
+**IIT Kharagpur** | **B.Tech 2nd Year**
 
-Building scalable systems and solving algorithmic problems. Focused on systems design and full-stack development.
+> Building scalable systems. Focused on agentic AI, full-stack development, and low-latency architecture.
+---
 
 
 🚀 Featured Projects
@@ -10,7 +15,7 @@ Building scalable systems and solving algorithmic problems. Focused on systems d
 <table width="100%" cellpadding="20" cellspacing="0" border="0">
 <tr>
 <td width="50%" style="padding: 20px; vertical-align: top;">
-<h3 style="margin-top: 0; margin-bottom: 10px;">📈 NEXTBULL</h3>
+<h3 style="margin-top: 0; margin-bottom: 10px;"><img src="https://www.nextbull.in/_next/image?url=%2Flogo.png&w=64&q=75" alt="NEXTBULL" height="20" style="vertical-align: middle; margin-right: 6px;" /> NEXTBULL</h3>
 <i style="display: block; margin-bottom: 12px; color: #666;">Exchange Simulator & Algo Trading</i>
 
 <p>Concurrent Limit Order Book matching engine handling <b>100+ orders/sec</b> with <b>&lt;1ms latency</b>. Features real-time WebSocket streaming and GBM-based synthetic market simulation.</p>
@@ -36,7 +41,7 @@ Building scalable systems and solving algorithmic problems. Focused on systems d
 </tr>
 <tr>
 <td width="50%" style="padding: 20px; vertical-align: top;">
-<h3 style="margin-top: 0; margin-bottom: 10px;">👔 Deloitte</h3>
+<h3 style="margin-top: 0; margin-bottom: 10px;"><img src="https://yt3.googleusercontent.com/_2Rv8urItkmasM2nH7bPXifDScLcgZS9oawzOk4zOidDWi8mCfdL_VBxw_x7nru2no2fsfK3LQ=s900-c-k-c0x00ffffff-no-rj" alt="Deloitte" height="20" style="vertical-align: middle; margin-right: 6px;" /> Deloitte</h3>
 <i style="display: block; margin-bottom: 12px; color: #666;">Employee Engagement Analyzer</i>
 
 <p>Controlled LLM HR system using <b>SHAP-based</b> feature prioritization. Designed multi-stage constraint-driven orchestration for zero-hallucination reports.</p>
@@ -79,7 +84,7 @@ Building scalable systems and solving algorithmic problems. Focused on systems d
 <div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="35" />
 <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="NodeJS" width="35" height="35" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" height="35" />
+<img src="https://cdn-images-1.medium.com/max/800/1*_6Zt1h5jopuP9syi-VDoMg.jpeg" alt="WebSockets" height="25" />
 </div>
 </td>
 <td width="33%" style="padding: 20px; vertical-align: top;">
