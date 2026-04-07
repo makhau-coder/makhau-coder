@@ -1,5 +1,5 @@
 <h2>👨‍💻 Abhay Chaudhary &nbsp;
-  <a href="mailto:abhaybst159@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="22" /></a> 
+  <a href="mailto:abhaybst10015@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="22" /></a> 
   <a href="https://www.linkedin.com/in/abhay-chaudhary-b1a85231b/"><img src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" height="27" /></a>
   <a href="https://www.instagram.com/abhaychaudhary.19/"><img src="https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=s96-rw" height="27" /></a>
 </h2>
