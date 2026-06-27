@@ -12,12 +12,12 @@
 💼 Experience
 <table width="100%" cellpadding="4" cellspacing="0" border="0" style="margin-top: 2px;">
 <tr>
-<td width="18%" style="padding: 8px 2px 6px 8px; vertical-align: top;">
+<td width="18%" style="padding: 8px 4px 6px 4px; vertical-align: top; text-align: center;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMHy33NUjg_H8VLjeUFxAWxaOObcf58mpow&s" alt="Pine Labs" height="24" style="vertical-align: middle;" />
 </td>
 <td width="82%" style="padding: 4px 8px 6px 2px; vertical-align: top;">
 <p style="font-size: 0.9rem; margin: 0 0 4px 0; line-height: 1.25;"><b>SDE Intern | On site | Noida [May 2026 - June 2026]</b></p>
-<p style="font-size: 0.95rem; margin: 0; line-height: 1.35;">Built scalable telemetry and verification systems for 5M+ logs/day (Kafka-ready to 1B+), with dual OpenSearch + ClickHouse pipelines, ~1s Golang aggregation over 10M records, and production multimodal KYC/fraud workflows across 29+ document types.</p>
+<p style="font-size: 0.95rem; margin: 0; line-height: 1.35;">Scalable telemetry/verification: 5M+ logs/day (Kafka-ready to 1B+), dual OpenSearch+ClickHouse pipelines, ~1s Golang aggregation/10M-records, production multimodal KYC/fraud workflows, 29+ doc-types.</p>
 </td>
 </tr>
 </table>
@@ -88,7 +88,7 @@
 
 🛠️ Technical Stack
 
-<table width="100%" cellpadding="20" cellspacing="0" border="0" style="margin-bottom: 30px; padding-right: 100px">
+<table width="100%" cellpadding="20" cellspacing="0" border="0" style="margin-bottom: 30px;">
 <tr>
 <td width="33%" style="padding: 20px; vertical-align: top;">
 <h3 style="margin-top: 0; margin-bottom: 15px;">Programming Languages</h3>
