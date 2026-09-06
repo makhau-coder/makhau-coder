@@ -28,7 +28,7 @@
 <table width="100%" cellpadding="20" cellspacing="0" border="0">
 <tr>
 <td width="50%" style="padding: 20px; vertical-align: top;">
-<h3 style="margin-top: 0; margin-bottom: 10px;"><img src="https://www.nextbull.in/_next/image?url=%2Flogo.png&w=64&q=75" alt="NEXTBULL" height="20" style="vertical-align: middle; margin-right: 6px;" /> NEXTBULL</h3>
+<h3 style="margin-top: 0; margin-bottom: 10px;">🦬 NEXTBULL</h3>
 <i style="display: block; margin-bottom: 12px; color: #666;">Exchange Simulator & Algo Trading</i>
 
 <p>Concurrent Limit Order Book matching engine handling <b>100+ orders/sec</b> with <b>&lt;1ms latency</b>. Features real-time WebSocket streaming and GBM-based synthetic market simulation.</p>
@@ -70,7 +70,7 @@
 </div>
 </td>
 <td width="50%" style="padding: 20px; vertical-align: top;">
-<h3 style="margin-top: 0; margin-bottom: 10px;"><span style="margin-right: 6px;">&#128172;</span><a href="https://github.com/makhau-coder/Vibe-Chat" style="text-decoration: none; color: inherit;">Vibe Chat</a></h3>
+<h3 style="margin-top: 0; margin-bottom: 10px; color: #333333;"><span style="margin-right: 6px;">💬</span><a href="https://github.com/makhau-coder/Real-Time_Messaging_and_AI_Assistant_Platform" style="text-decoration: none; color: #333333;">Real-Time Messaging and AI Assistant Platform</a></h3>
 <i style="display: block; margin-bottom: 12px; color: #666;">Real-time Full-Stack Chat Platform</i>
 
 <p>Real-time chat platform with JWT auth, WebSocket messaging, online presence, and profile management across a FastAPI + React architecture.</p>
